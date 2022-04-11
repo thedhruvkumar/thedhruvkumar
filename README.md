@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Dhruv 👋
 
 - 🔭 I’m currently working on Discord Bots , Web Development
 - 🌱 I’m currently learning .Javascript
@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Dhruvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedhruvkumar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Currently Working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedhruvkumar&repo=React-Project)](https://github.com/thedhruvkumar/React-Project)
